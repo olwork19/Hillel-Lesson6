@@ -112,6 +112,11 @@ section span {
     margin: 0px 81px 15px 68px ;
  }
 
+.btn_over {
+    overflow: auto;
+    margin: 0px 0px 68px 53px;
+}
+
  .btn {
 font-family: 'Open Sans', sans-serif;
 text-transform: uppercase;
@@ -128,7 +133,7 @@ float: left;
  .btn-gold {
 background: #99823D;
 padding: 24px 69px 26px 72px;
-margin: 0px 0px 68px 68px;
+
  }
 
  .social {
