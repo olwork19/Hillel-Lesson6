@@ -84,7 +84,8 @@ div img {
 .introduce {
     padding: 68px 121px 68px 705px;
     font-family: 'Open Sans', sans-serif;
-    background:#141414;
+    background: #141414 url(../photo/IMAGE.png) no-repeat;
+    background-position: center left 68px;
 }
 
 section span {
@@ -100,7 +101,6 @@ section span {
     font-size: 67px;
     line-height: 67.5px;
     color: #141414;
-    max-width: 417px;
     margin: 0px 99px 32px 68px ;
  }
 
